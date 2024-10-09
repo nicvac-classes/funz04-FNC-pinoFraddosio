@@ -56,5 +56,6 @@ int main() {
    pot = Potenza(a,b);
    cout<<"La somma dei due numeri equivale a: "<<som<<"; la differenza a : "<<dif<<"; la moliplicazione a: "<<molt<<"; la divisione a: "<<div<<"; la potenza a: "<<pot<<endl;
    return 0;
+   
 }
 
